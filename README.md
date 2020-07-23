@@ -1,8 +1,10 @@
 # stm32LibSCPIDemo
 
+stm32f103 + freeRTOS + uart + libscpi
+
 libscpi repo : <https://github.com/j123b567/scpi-parser>
 
-stm32f103 + freeRTOS + uart + libscpi
+another example : <https://github.com/eez-open/modular-psu-firmware>
 
 ## Test Result
 
