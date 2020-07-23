@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs
+/MDK-ARM/DebugConfig
+/MDK-ARM/stm32LibSCPIDemo
+/MDK-ARM/RTE/_stm32LibSCPIDemo
+/MDK-ARM/stm32LibSCPIDemo.uvguix.gaoyi
