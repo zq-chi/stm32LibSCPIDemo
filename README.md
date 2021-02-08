@@ -6,6 +6,12 @@ libscpi repo : <https://github.com/j123b567/scpi-parser>
 
 another example : <https://github.com/eez-open/modular-psu-firmware>
 
+Doc:
+
+https://www.ivifoundation.org/docs/scpi-99.pdf
+
+https://www.keysight.com/upload/cmc_upload/All/SCPITrainingSlides.pdf
+
 ## Test Result
 
 ```BASH
